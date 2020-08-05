@@ -1,0 +1,11 @@
+main: at.lorenz.booster.BoosterPlugin
+name: BoosterNew
+version: 1.0
+commands:
+  booster2:
+  togglebooster:
+  activeboosters:
+  setbooster:
+  activatebooster:
+  getbooster:
+  transferboosterdata:
